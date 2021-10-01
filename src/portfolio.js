@@ -14,6 +14,7 @@ const about = {
   social: {
     linkedin: 'https://www.linkedin.com/in/soufiane-ouddaf-396348178/',
     github: 'https://github.com/soufianeodf',
+    youtube: 'https://www.youtube.com/channel/UC7uhy5NJ3Cenz0kNNmtsw1g',
   },
 }
 

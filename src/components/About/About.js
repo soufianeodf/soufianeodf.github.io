@@ -1,5 +1,6 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
+import YoutubeIcon from '@material-ui/icons/YouTube'
 import { about } from '../../portfolio'
 import './About.css'
 
@@ -47,6 +48,17 @@ const About = () => {
                 <LinkedInIcon />
               </a>
             )}
+
+            {social.youtube && (
+              <a
+                href={social.youtube}
+                aria-label='youtube'
+                className='link link--icon'
+              >
+                <YoutubeIcon />
+              </a>
+            )}
+
           </>
         )}
       </div>
