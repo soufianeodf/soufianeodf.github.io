@@ -1,35 +1,14 @@
-# Cleanfolio - a clean and simple portfolio template
+# Portfolio
 
-It is built using React, if you want a template built using HTML, CSS and JS then check out
-[Cleanfolio Minimal](https://github.com/rajshekhar26/cleanfolio-minimal).
-
-## Preview
-
-![Imgur](https://imgur.com/FwDMNEM.gif)
-
-[Live Preview](https://rajshekhar26.github.io/cleanfolio)
+Personal portfolio. Made with React by [rajshekhar26](https://github.com/rajshekhar26).
 
 ## Instructions
 
 ### Setup
 
 ```shell
-git clone https://github.com/rajshekhar26/cleanfolio
-cd cleanfolio
-```
-
-If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm) (optional) -
-
-```shell
-nvm install
-nvm use
-```
-
-Or -
-
-```shell
-fnm install
-fnm use
+git https://github.com/soufianeodf/soufianeodf.github.io.git portfolio
+cd portfolio
 ```
 
 Install and run -
