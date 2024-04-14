@@ -10,7 +10,7 @@ const about = {
   role: 'Software Engineer',
   description:
     'I started my journey as a computer science student, and there I discovered my passion toward the programming and web development in general. Ever since I have fallen in love with programming and spend most of my days taking my craft to the next level.',
-  resume: 'https://drive.google.com/file/d/1-JyoIP5Wa6WagvLFMQrPfKDE83E5yDJL/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1xQcb8ikGVYZKxOGTWXcEA6zKcrVCZsA2/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/soufiane-ouddaf-396348178/',
     github: 'https://github.com/soufianeodf',
