@@ -26,6 +26,12 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'yarn'
+
+    - name: Configure Git User Identity
+      run: |
+        git config --global user.email "soufianeodf@gmail.com"
+        git config --global user.name "soufianeodf"
+    
     - run: yarn install --frozen-lockfile
     - run: yarn build
     - run: yarn deploy
